@@ -1,12 +1,12 @@
-﻿Imports System.Windows
+Imports System.Windows
 
 Namespace Line2DChart
 
-	Partial Public Class Window1
-		Inherits Window
+    Public Partial Class Window1
+        Inherits Window
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+        Public Sub New()
+            Me.InitializeComponent()
+        End Sub
+    End Class
 End Namespace
