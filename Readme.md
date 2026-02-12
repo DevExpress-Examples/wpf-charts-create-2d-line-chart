@@ -38,7 +38,7 @@ Use the following properties to bind the [series](https://docs.devexpress.com/WP
 * [How to: Create a Real-Time Chart](https://github.com/DevExpress-Examples/dxcharts-how-to-create-a-real-time-chart)
 * [How to: Select a Series Point Marker Based on a Point Argument](https://github.com/DevExpress-Examples/select-a-series-point-marker-based-on-a-point-argument)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-2d-line-chart&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-2d-line-chart&~~~was_helpful=no)
 
